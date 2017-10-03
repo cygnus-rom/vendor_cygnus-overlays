@@ -18,4 +18,6 @@
         <item name="android:layout_gravity">center</item>
     </style>
 
+    <!-- Flag indicating whether round icons should be parsed from the application manifest. -->
+    <bool name="config_useRoundIcon">true</bool>
 </resources>
